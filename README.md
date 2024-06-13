@@ -16,6 +16,4 @@ services:
       WATCHTOWER_INCLUDE_STOPPED: true
       WATCHTOWER_POLL_INTERVAL: 86400
       WATCHTOWER_REVIVE_STOPPED: true
-    ports:
-      - 8889:8080
 ```
